@@ -1,0 +1,31 @@
+stages:
+  - build
+  - test
+  - deploy
+
+variables:
+  IMAGE_TAG: $CI_REGISTRY_IMAGE:$CI_COMMIT_REF_SLUG
+
+build:
+  stage: build
+  script:
+    - docker build -t $IMAGE_TAG .
+  only:
+    - master
+
+test:
+  stage: test
+  script:
+    - docker run -d --name test-app $IMAGE_TAG
+    - docker ps | grep test-app
+    - curl localhost:5000
+  only:
+    - master
+
+deploy:
+  stage: deploy
+  script:
+    - echo "Deploying to AWS..."
+    # Add AWS ECS or EKS deployment steps here
+  only:
+    - master
