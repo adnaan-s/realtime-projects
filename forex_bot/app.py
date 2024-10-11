@@ -1,5 +1,5 @@
 from flask import Flask, jsonify
-from scraper import yahoo_search
+from scraper import bing_search  # Updated import for Bing search
 from sentiment_model import analyze_sentiment
 from predictor import trading_decision
 from statistics import mean
@@ -25,19 +25,16 @@ def get_market_direction(overall_sentiment):
         return "Neutral"
 
 def store_news_analysis(pair, news_analysis):
-    # Ensure historical data file exists
     if not os.path.exists(news_history_file):
         with open(news_history_file, 'w') as f:
             json.dump([], f)
-    
-import os
 
-# Check if the historical data file exists before trying to open it
-if os.path.exists(news_history_file):
-    with open(news_history_file, 'r') as f:
-        history = json.load(f)
-else:
-    history = []
+    # Check if the historical data file exists before trying to open it
+    if os.path.exists(news_history_file):
+        with open(news_history_file, 'r') as f:
+            history = json.load(f)
+    else:
+        history = []
 
     # Add new data with timestamp
     history.append({
@@ -51,7 +48,7 @@ else:
         json.dump(history, f, indent=4)
 
 def scrape_and_store_forex_news(pair):
-    news = yahoo_search(f'{pair}')
+    news = bing_search(f'{pair}')
     results = []
     sentiments = []
 
