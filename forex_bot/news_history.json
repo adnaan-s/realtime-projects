@@ -1,0 +1,226 @@
+[
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-11T21:32:57.808634",
+        "news_analysis": {
+            "overall_sentiment": 0,
+            "market_direction": "Neutral",
+            "prediction": "Hold",
+            "confidence": 0,
+            "news_analysis": [
+                {
+                    "headline": "www.fxstreet.com \u00b7 currencies \u00b7 eurusdEUR/USD Forecast, News and Analysis (Euro and US Dollar ...",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forexfactory.com \u00b7 market \u00b7 eurusdEUR/USD | Forex Factory",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.google.com \u00b7 finance \u00b7 quoteEUR/USD Currency Exchange Rate & News - Google Finance",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.fxstreet.com \u00b7 analysis \u00b7 eur-usd-weeklyEUR/USD Weekly Forecast: Sellers gain confidence alongside ...",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.fxempire.com \u00b7 currencies \u00b7 eur-usdEUR/USD Price Forecasts, Analysis & News | FXEmpire",
+                    "sentiment": "neutral"
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-11T21:32:58.551045",
+        "news_analysis": {
+            "overall_sentiment": 0,
+            "market_direction": "Neutral",
+            "prediction": "Hold",
+            "confidence": 0,
+            "news_analysis": [
+                {
+                    "headline": "Forex Trading - Octa Forex Broker ECN",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.fxstreet.com \u00b7 currencies \u00b7 eurusdEUR/USD Forecast, News and Analysis (Euro and US Dollar ...",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forex.com \u00b7 en-us \u00b7 news-and-analysisEURUSD, DXY Forecast: CPI Results to Test DXY Strength",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forexfactory.com \u00b7 news \u00b7 1308632-usd-rallies-toUSD Rallies to 103 as Gold Strength Continues: EUR/USD, USD ...",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forexfactory.com \u00b7 market \u00b7 eurusdEUR/USD | Forex Factory",
+                    "sentiment": "neutral"
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-11T21:42:58.000179",
+        "news_analysis": {
+            "overall_sentiment": 0,
+            "market_direction": "Neutral",
+            "prediction": "Hold",
+            "confidence": 0,
+            "news_analysis": [
+                {
+                    "headline": "www.fxstreet.com \u00b7 currencies \u00b7 eurusdEUR/USD Forecast, News and Analysis (Euro and US Dollar ...",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.fxstreet.com \u00b7 analysis \u00b7 eur-usd-weeklyEUR/USD Weekly Forecast: Sellers gain confidence alongside ...",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forex.com \u00b7 en-us \u00b7 news-and-analysisUSD Strength as Gold, EUR/USD Pull Back Ahead of CPI - FOREX.com",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forexfactory.com \u00b7 market \u00b7 eurusdEUR/USD | Forex Factory",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.google.com \u00b7 finance \u00b7 quoteEUR/USD Currency Exchange Rate & News - Google Finance",
+                    "sentiment": "neutral"
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-11T21:42:58.563134",
+        "news_analysis": {
+            "overall_sentiment": 0,
+            "market_direction": "Neutral",
+            "prediction": "Hold",
+            "confidence": 0,
+            "news_analysis": [
+                {
+                    "headline": "www.fxstreet.com \u00b7 currencies \u00b7 eurusdEUR/USD Forecast, News and Analysis (Euro and US Dollar ...",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forexfactory.com \u00b7 market \u00b7 eurusdEUR/USD | Forex Factory",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.google.com \u00b7 finance \u00b7 quoteEUR/USD Currency Exchange Rate & News - Google Finance",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.wsj.com \u00b7 market-data \u00b7 quotesEUR to USD Exchange Rate - The Wall Street Journal",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.fxempire.com \u00b7 currencies \u00b7 eur-usdEUR/USD Price Forecasts, Analysis & News | FXEmpire",
+                    "sentiment": "neutral"
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-11T21:52:57.781080",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold",
+            "confidence": 0.2,
+            "news_analysis": [
+                {
+                    "headline": "www.fxstreet.com \u00b7 currencies \u00b7 eurusdEUR/USD Forecast, News and Analysis (Euro and US Dollar ...",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forexfactory.com \u00b7 market \u00b7 eurusdEUR/USD | Forex Factory",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.google.com \u00b7 finance \u00b7 quoteEUR/USD Currency Exchange Rate & News - Google Finance",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.investing.com \u00b7 currencies \u00b7 eur-usd-newsEuro US Dollar (EUR USD) News - Investing.com",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.tradingview.com \u00b7 symbols \u00b7 EURUSDEURUSD Latest News and Headlines - TradingView",
+                    "sentiment": "positive"
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-11T21:52:58.257504",
+        "news_analysis": {
+            "overall_sentiment": 0,
+            "market_direction": "Neutral",
+            "prediction": "Hold",
+            "confidence": 0,
+            "news_analysis": [
+                {
+                    "headline": "www.fxstreet.com \u00b7 currencies \u00b7 eurusdEUR/USD Forecast, News and Analysis (Euro and US Dollar ...",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forexfactory.com \u00b7 market \u00b7 eurusdEUR/USD | Forex Factory",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.google.com \u00b7 finance \u00b7 quoteEUR/USD Currency Exchange Rate & News - Google Finance",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.wsj.com \u00b7 market-data \u00b7 quotesEUR to USD Exchange Rate - The Wall Street Journal",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.fxstreet.com \u00b7 analysis \u00b7 eur-usd-weeklyEUR/USD Weekly Forecast: Sellers gain confidence alongside ...",
+                    "sentiment": "neutral"
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-11T22:02:57.816717",
+        "news_analysis": {
+            "overall_sentiment": 0,
+            "market_direction": "Neutral",
+            "prediction": "Hold",
+            "confidence": 0,
+            "news_analysis": [
+                {
+                    "headline": "www.fxstreet.com \u00b7 currencies \u00b7 eurusdEUR/USD Forecast, News and Analysis (Euro and US Dollar ...",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forexfactory.com \u00b7 market \u00b7 eurusdEUR/USD | Forex Factory",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.google.com \u00b7 finance \u00b7 quoteEUR/USD Currency Exchange Rate & News - Google Finance",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.wsj.com \u00b7 market-data \u00b7 quotesEUR to USD Exchange Rate - The Wall Street Journal",
+                    "sentiment": "neutral"
+                },
+                {
+                    "headline": "www.forex.com \u00b7 en-us \u00b7 news-and-analysisEURUSD, DXY Forecast: CPI Results to Test DXY Strength",
+                    "sentiment": "neutral"
+                }
+            ]
+        }
+    }
+]
