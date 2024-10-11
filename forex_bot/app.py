@@ -9,7 +9,7 @@ app = Flask(__name__)
 def calculate_overall_sentiment(sentiments):
     sentiment_scores = {'positive': 1, 'neutral': 0, 'negative': -1}
     scores = [sentiment_scores[s] for s in sentiments]
-    return mean(scores)
+    return mean(scores) if scores else 0  # Return 0 if there are no scores
 
 def get_market_direction(overall_sentiment):
     if overall_sentiment > 0.2:
@@ -42,7 +42,7 @@ def forex_predict(pair):
         'overall_sentiment': overall_sentiment,
         'market_direction': market_direction,
         'prediction': prediction,
-        'confidence': abs(overall_sentiment),  # Simple confidence measure
+        'confidence': abs(overall_sentiment),
         'news_analysis': results
     })
 
