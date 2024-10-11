@@ -1,33 +1,33 @@
 # Web framework
-Flask==2.3.2
+Flask
 
 # HTTP requests
-requests==2.31.0
+requests
 
 # HTML parsing
-beautifulsoup4==4.12.2
+beautifulsoup4
 
 # Natural Language Processing
-textblob==0.17.1
+textblob
 
 # NLTK (dependency for TextBlob)
-nltk==3.8.1
+NLTK
 
 # Data manipulation (might be useful for future enhancements)
-pandas==2.0.3
-numpy==1.25.2
+pandas
+numpy
 
 # API requests (alternative to requests, included for compatibility)
-aiohttp==3.8.5
+aiohttp
 
 # Date and time handling (useful for timestamping predictions)
-python-dateutil==2.8.2
+python-dateutil
 
 # Environment variables management (useful for configuration)
-python-dotenv==1.0.0
+python-dotenv
 
 # WSGI server for production deployment
-gunicorn==21.2.0
+gunicorn
 
 # Add setuptools to handle the distutils issue
-setuptools==68.0.0
+setuptools
