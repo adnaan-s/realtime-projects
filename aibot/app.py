@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, render_template
 from scraper import bing_search  # Import for Bing search
 from sentiment_model import analyze_sentiment, calculate_overall_sentiment
 from predictor import trading_decision
@@ -74,7 +74,7 @@ def scrape_and_store_forex_news():
 
         overall_sentiment = calculate_overall_sentiment(sentiments)
         market_direction = get_market_direction(overall_sentiment)
-        prediction = trading_decision(market_direction.lower(), overall_sentiment)  # Pass overall sentiment
+        prediction = trading_decision(market_direction.lower(), overall_sentiment)
 
         # Store results
         store_news_analysis(pair, {
@@ -82,7 +82,7 @@ def scrape_and_store_forex_news():
             'market_direction': market_direction,
             'prediction': prediction,
             'confidence': abs(overall_sentiment),
-            'real_time_price': real_time_price,  # Include real-time price
+            'real_time_price': real_time_price,
             'news_analysis': results
         })
 
@@ -94,9 +94,9 @@ def forex_predict(pair):
     recent_analysis = next((entry for entry in reversed(history) if entry['pair'] == pair), None)
     
     if recent_analysis:
-        return jsonify(recent_analysis)
+        return render_template('index.html', analysis=recent_analysis)
     else:
-        return jsonify({"error": "No historical data found for this pair."}), 404
+        return render_template('index.html', error="No historical data found for this pair.")
 
 @app.route('/')
 def home():
@@ -106,9 +106,8 @@ def home():
             history = json.load(f)
 
         # Return all analyses
-        if history:
-            return jsonify(history), 200  # Return the entire history
-    return "No news analysis available yet.", 404
+        return render_template('index.html', analysis=history)  # Render template with all history
+    return render_template('index.html', error="No news analysis available yet.")
 
 # Schedule scraping every 10 minutes for all pairs
 scheduler = BackgroundScheduler()
