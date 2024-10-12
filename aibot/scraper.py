@@ -37,7 +37,7 @@ def bing_search(query):
     return [result['name'] for result in search_results]
 
 def continuous_scraping():
-    forex_pairs = ['EURUSD', 'GBPUSD', 'USDJPY']  # Add more pairs as needed
+    forex_pairs = ['EURUSD', 'GBPUSD', 'USDJPY' 'XAUUSD']  # Add more pairs as needed
     for pair in forex_pairs:
         print(f"Fetching news for {pair}...")
         news = bing_search(pair)
@@ -46,8 +46,8 @@ def continuous_scraping():
         else:
             print(f"No news found for {pair}.")
 
-# Schedule the scraping job to run every hour
-schedule.every(1).hour.do(continuous_scraping)
+# Schedule the scraping job to run every 5 minutes
+schedule.every(5).minutes.do(continuous_scraping)
 
 if __name__ == "__main__":
     # Run the continuous scraper in the background
