@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forex News Analysis</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+        h1 { color: #333; }
+        .symbol-section { margin-bottom: 30px; border: 1px solid #ddd; padding: 15px; border-radius: 5px; }
+        .news-item { margin-bottom: 10px; }
+        .sentiment { font-weight: bold; }
+        .bullish { color: green; }
+        .bearish { color: red; }
+        .neutral { color: gray; }
+    </style>
+</head>
+<body>
+    <h1>Forex News Analysis</h1>
+    {% for entry in history %}
+        <div class="symbol-section">
+            <h2>{{ entry.symbol }}</h2>
+            {% for analysis in entry.analyses[-1:] %}
+                <p><strong>Last Updated:</strong> {{ analysis.timestamp }}</p>
+                <p><strong>Current Price:</strong> {{ analysis.news_analysis.current_price }}</p>
+                <p><strong>Overall Sentiment:</strong> <span class="sentiment {{ analysis.news_analysis.market_direction.lower() }}">{{ analysis.news_analysis.market_direction }}</span></p>
+                <p><strong>Prediction:</strong> {{ analysis.news_analysis.prediction }}</p>
+                <p><strong>Confidence:</strong> {{ "%.2f"|format(analysis.news_analysis.confidence) }}</p>
+                <h3>Recent News:</h3>
+                {% for news in analysis.news_analysis.news_analysis[:5] %}
+                    <div class="news-item">
+                        <p>{{ news.headline }}</p>
+                        <p>Sentiment: <span class="sentiment {% if news.sentiment > 0 %}bullish{% elif news.sentiment < 0 %}bearish{% else %}neutral{% endif %}">
+                            {% if news.sentiment > 0 %}Positive{% elif news.sentiment < 0 %}Negative{% else %}Neutral{% endif %}
+                        </span></p>
+                    </div>
+                {% endfor %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</body>
+</html>
