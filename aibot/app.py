@@ -7,11 +7,15 @@ from apscheduler.schedulers.background import BackgroundScheduler
 import time
 import asyncio
 from metaapi_integration import execute_trade_for_signals
+from concurrent.futures import ThreadPoolExecutor
 
 app = Flask(__name__)
 news_history_file = "news_history.json"
 forex_pairs = ['EURUSD', 'GBPUSD', 'USDJPY', 'XAUUSD']
 bing_api_key = os.getenv('BING_API_KEY')
+
+# Create a ThreadPoolExecutor
+executor = ThreadPoolExecutor(max_workers=1)
 
 def get_real_time_price(pair):
     headers = {'Ocp-Apim-Subscription-Key': bing_api_key}
@@ -63,18 +67,43 @@ def home():
             return jsonify(history), 200
     return jsonify({"error": "No news analysis available yet."}), 404
 
+def run_async_trade(signals):
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    try:
+        app.logger.info(f"Attempting to execute trades for signals: {signals}")
+        result = loop.run_until_complete(execute_trade_for_signals(signals))
+        app.logger.info(f"Trade execution result: {result}")
+        return result
+    except Exception as e:
+        app.logger.error(f"Error executing trades: {e}")
+        return {"error": str(e)}
+    finally:
+        loop.close()
+
 @app.route('/trade-signals', methods=['POST'])
 def trade_signals():
     signals = request.json
     
+    app.logger.info(f"Received trade signals: {signals}")
+    
     if not signals or not isinstance(signals, dict):
+        app.logger.error("Invalid signals format received")
         return jsonify({"error": "Invalid signals format. Please provide a dictionary."}), 400
 
     try:
-        asyncio.run(execute_trade_for_signals(signals))
-        return jsonify({"message": "Trades executed successfully"})
+        # Run the async function in a separate thread
+        future = executor.submit(run_async_trade, signals)
+        result = future.result()
+        
+        app.logger.info(f"Trade execution completed. Result: {result}")
+        
+        if isinstance(result, dict) and "error" in result:
+            app.logger.error(f"Error in trade execution: {result['error']}")
+            return jsonify(result), 500
+        return jsonify({"message": "Trades executed successfully", "details": result})
     except Exception as e:
-        app.logger.error(f"Error executing trades: {e}")
+        app.logger.error(f"Unexpected error in trade_signals route: {e}")
         return jsonify({"error": str(e)}), 500
 
 scheduler = BackgroundScheduler()

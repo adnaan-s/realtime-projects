@@ -3,13 +3,14 @@ import logging
 import os
 from dotenv import load_dotenv
 from metaapi_cloud_sdk import MetaApi
-import requests
+import time
 
 # Load environment variables
 load_dotenv()
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 # Retrieve MetaApi credentials from environment variables
 METAAPI_TOKEN = os.getenv('METAAPI_TOKEN')
@@ -23,69 +24,89 @@ if not METAAPI_TOKEN or not ACCOUNT_ID:
 STOP_LOSS_PIPS = 50
 TAKE_PROFIT_PIPS = 100
 
-def get_prediction(pair):
+async def open_trade(api, account, pair, signal):
     try:
-        response = requests.get(f"http://127.0.0.1:5000/forex_predict/{pair}")
-        if response.status_code == 200:
-            data = response.json()
-            return data.get('prediction')
-        else:
-            logging.error(f"Failed to get prediction for {pair}. Status code: {response.status_code}")
-            return None
-    except Exception as e:
-        logging.error(f"Error getting prediction for {pair}: {e}")
-        return None
-
-async def open_trade(api, pair, signal):
-    try:
-        account = await api.metatrader_account_api.get_account(ACCOUNT_ID)
+        logger.info(f"Attempting to open trade for {pair} with signal {signal}")
         
         if account.state != 'DEPLOYED':
-            logging.error(f"Account is not deployed. Current state: {account.state}")
-            return
+            logger.error(f"Account is not deployed. Current state: {account.state}")
+            return f"Error: Account not deployed. State: {account.state}"
 
-        connection = account.get_rpc_connection()
+        connection = account.get_streaming_connection()
         await connection.connect()
-        await connection.wait_connected()
         
+        logger.info("Waiting for connection to be synchronized")
+        await connection.wait_synchronized()
+
         trade_type = 'ORDER_TYPE_BUY' if signal == 'buy' else 'ORDER_TYPE_SELL'
         
+        logger.info(f"Fetching symbol price for {pair}")
         price = await connection.get_symbol_price(pair)
         if price is None:
-            logging.error(f"Could not retrieve market price for {pair}")
-            return
+            logger.error(f"Could not retrieve market price for {pair}")
+            return f"Error: Could not retrieve market price for {pair}"
         
         market_price = price.ask if trade_type == 'ORDER_TYPE_BUY' else price.bid
         
-        stop_loss_price = market_price - STOP_LOSS_PIPS * 0.0001 if trade_type == 'ORDER_TYPE_BUY' else market_price + STOP_LOSS_PIPS * 0.0001
-        take_profit_price = market_price + TAKE_PROFIT_PIPS * 0.0001 if trade_type == 'ORDER_TYPE_BUY' else market_price - TAKE_PROFIT_PIPS * 0.0001
+        logger.info("Calculating trade parameters")
+        equity = await connection.get_account_information()
+        risk_percentage = 0.01  # 1% risk per trade
+        pip_value = 0.0001  # Assuming 4 decimal places for Forex pairs
+        lot_size = round((equity.balance * risk_percentage) / (STOP_LOSS_PIPS * pip_value), 2)
+        
+        stop_loss_price = market_price - STOP_LOSS_PIPS * pip_value if trade_type == 'ORDER_TYPE_BUY' else market_price + STOP_LOSS_PIPS * pip_value
+        take_profit_price = market_price + TAKE_PROFIT_PIPS * pip_value if trade_type == 'ORDER_TYPE_BUY' else market_price - TAKE_PROFIT_PIPS * pip_value
 
+        logger.info(f"Executing {trade_type} trade for {pair}")
         result = await connection.create_market_buy_order(
-            pair, 0.01, stop_loss_price, take_profit_price
+            pair, lot_size, stop_loss_price, take_profit_price
         ) if trade_type == 'ORDER_TYPE_BUY' else await connection.create_market_sell_order(
-            pair, 0.01, stop_loss_price, take_profit_price
+            pair, lot_size, stop_loss_price, take_profit_price
         )
 
-        logging.info(f"Opened {trade_type} trade for {pair} at {market_price} with SL: {stop_loss_price}, TP: {take_profit_price}")
-        logging.info(f"Trade result: {result}")
+        logger.info(f"Trade executed: {trade_type} trade for {pair} at {market_price} with SL: {stop_loss_price}, TP: {take_profit_price}, Lot Size: {lot_size}")
+        logger.info(f"Trade result: {result}")
+        return f"Trade executed: {trade_type} for {pair}"
     
     except Exception as e:
-        logging.error(f"Error opening trade for {pair}: {e}")
+        logger.error(f"Error opening trade for {pair}: {e}")
+        return f"Error opening trade for {pair}: {str(e)}"
     finally:
         if 'connection' in locals():
             await connection.close()
 
 async def execute_trade_for_signals(signals):
+    logger.info(f"Executing trades for signals: {signals}")
     api = MetaApi(METAAPI_TOKEN)
-    for pair, signal in signals.items():
-        await open_trade(api, pair, signal)
-
-async def main():
-    api = MetaApi(METAAPI_TOKEN)
-    pairs = ['EURUSD', 'GBPUSD', 'USDJPY', 'XAUUSD']
     
-    tasks = [open_trade(api, pair, 'buy') for pair in pairs]
-    await asyncio.gather(*tasks)
+    try:
+        logger.info("Fetching MetaAPI account")
+        account = await api.metatrader_account_api.get_account(ACCOUNT_ID)
+        
+        logger.info("Ensuring account is deployed")
+        if account.state != 'DEPLOYED':
+            logger.info("Account is not deployed. Deploying now...")
+            await account.deploy()
+        
+        logger.info("Waiting for account to be deployed")
+        await account.wait_deployed()
+        
+        results = []
+        for pair, signal in signals.items():
+            logger.info(f"Processing trade for {pair} with signal {signal}")
+            result = await open_trade(api, account, pair, signal)
+            results.append(result)
+        
+        return results
+    except Exception as e:
+        logger.error(f"Error in execute_trade_for_signals: {e}")
+        return [f"Error: {str(e)}"]
+
+# This function can be used for testing the module independently
+async def main():
+    test_signals = {'EURUSD': 'buy', 'GBPUSD': 'sell'}
+    results = await execute_trade_for_signals(test_signals)
+    print(results)
 
 if __name__ == "__main__":
     asyncio.run(main())
