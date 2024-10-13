@@ -1,18 +1,19 @@
-from flask import Flask, jsonify
-from scraper import scrape_and_store_forex_news  # Import the scraping function directly
+from flask import Flask, jsonify, request
+from scraper import scrape_and_store_forex_news
 import json
 import os
 import requests
 from apscheduler.schedulers.background import BackgroundScheduler
-import time  # Import time for managing request intervals
+import time
+import asyncio
+from metaapi_integration import execute_trade_for_signals
 
 app = Flask(__name__)
-news_history_file = "news_history.json"  # File to store historical data
-forex_pairs = ['EURUSD', 'GBPUSD', 'USDJPY', 'XAUUSD']  # List of forex pairs to scrape
-bing_api_key = '5fa27cea56a44bd4a4a3c7bd1f06ab49'  # Bing API key
+news_history_file = "news_history.json"
+forex_pairs = ['EURUSD', 'GBPUSD', 'USDJPY', 'XAUUSD']
+bing_api_key = os.getenv('BING_API_KEY')
 
 def get_real_time_price(pair):
-    """Fetch the real-time price for a given forex pair using Bing API."""
     headers = {'Ocp-Apim-Subscription-Key': bing_api_key}
     params = {
         'q': f'{pair} forex real-time price',
@@ -22,7 +23,7 @@ def get_real_time_price(pair):
     }
 
     try:
-        time.sleep(2)  # Introduce a delay to manage rate limits
+        time.sleep(2)
         response = requests.get('https://api.bing.microsoft.com/v7.0/news/search', headers=headers, params=params)
         
         if response.status_code == 200:
@@ -31,18 +32,17 @@ def get_real_time_price(pair):
                 return articles[0].get('name', 'No price data available')
             return 'No price data available'
         elif response.status_code == 429:
-            print(f"Rate limit reached for {pair}.")
+            app.logger.warning(f"Rate limit reached for {pair}.")
             return 'Rate limit reached'
         else:
-            print(f"Error fetching price for {pair}: {response.status_code}")
+            app.logger.error(f"Error fetching price for {pair}: {response.status_code}")
             return None
     except Exception as e:
-        print(f"Exception occurred: {e}")
+        app.logger.error(f"Exception occurred: {e}")
         return None
 
 @app.route('/forex_predict/<pair>')
 def forex_predict(pair):
-    """Fetch recent analysis for a given forex pair."""
     with open(news_history_file, 'r') as f:
         history = json.load(f)
 
@@ -55,21 +55,32 @@ def forex_predict(pair):
 
 @app.route('/')
 def home():
-    """Return the entire news analysis history."""
     if os.path.exists(news_history_file):
         with open(news_history_file, 'r') as f:
             history = json.load(f)
 
         if history:
-            return jsonify(history), 200  # Return the entire history
+            return jsonify(history), 200
     return jsonify({"error": "No news analysis available yet."}), 404
 
-# Schedule scraping every 10 minutes for all pairs
+@app.route('/trade-signals', methods=['POST'])
+def trade_signals():
+    signals = request.json
+    
+    if not signals or not isinstance(signals, dict):
+        return jsonify({"error": "Invalid signals format. Please provide a dictionary."}), 400
+
+    try:
+        asyncio.run(execute_trade_for_signals(signals))
+        return jsonify({"message": "Trades executed successfully"})
+    except Exception as e:
+        app.logger.error(f"Error executing trades: {e}")
+        return jsonify({"error": str(e)}), 500
+
 scheduler = BackgroundScheduler()
 scheduler.add_job(func=scrape_and_store_forex_news, trigger="interval", minutes=10)
 scheduler.start()
 
 if __name__ == "__main__":
-    # Run initial scrape
     scrape_and_store_forex_news()
     app.run(debug=True)
