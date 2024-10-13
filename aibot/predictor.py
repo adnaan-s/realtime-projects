@@ -1,7 +1,4 @@
-# predictor.py
-
-from os import name
-
+from sentiment_model import analyze_sentiment, calculate_overall_sentiment
 
 def trading_decision(market_direction, overall_sentiment):
     """
@@ -29,7 +26,7 @@ def trading_decision(market_direction, overall_sentiment):
     else:  # Neutral
         return "Hold - Market is Neutral"
 
-if name == "main":
+if __name__ == "__main__":
     # Test the function
     test_directions = ['bullish', 'bearish', 'neutral']
     test_sentiments = [0.6, -0.7, 0]  # Example sentiment values

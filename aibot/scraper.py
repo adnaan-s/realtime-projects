@@ -1,69 +1,87 @@
+import json
+import os
 import requests
-import schedule
+from sentiment_model import analyze_sentiment, calculate_overall_sentiment
+from predictor import trading_decision
 import time
 
-# Bing API credentials
-API_KEY = '5fa27cea56a44bd4a4a3c7bd1f06ab49'
-BING_SEARCH_URL = 'https://api.bing.microsoft.com/v7.0/news/search'
+news_history_file = "news_history.json"  # File to store historical data
+bing_api_key = '5fa27cea56a44bd4a4a3c7bd1f06ab49'  # Bing API key
 
-# Store scraped news in a global dictionary
-news_cache = {}
+def scrape_and_store_forex_news():
+    """Scrape forex news and store it in a JSON file."""
+    forex_pairs = ['EURUSD', 'GBPUSD', 'USDJPY', 'XAUUSD']  # List of forex pairs to scrape
+    news_data = []
 
-# List of forex pairs to track
-FOREX_PAIRS = ['EURUSD', 'GBPUSD', 'USDJPY', 'XAUUSD']  # Added XAUUSD (Gold)
+    for pair in forex_pairs:
+        news_articles = fetch_news(pair)
+        if news_articles:
+            news_data.extend(news_articles)
 
-def bing_search(query):
-    """Fetches the latest news using the Bing API for the given query."""
-    headers = {'Ocp-Apim-Subscription-Key': API_KEY}
+    if news_data:
+        save_news_to_file(news_data)
+
+def fetch_news(pair):
+    """Fetch news articles for a given forex pair."""
+    headers = {'Ocp-Apim-Subscription-Key': bing_api_key}
     params = {
-        'q': f'{query} forex news',
-        'count': 5,  # Fetch 5 news articles
-        'mkt': 'en-US',
-        'sortBy': 'Date'
+        'q': f'{pair} forex news',
+        'count': 10,  # Number of news articles to fetch
+        'mkt': 'en-US'
     }
 
     try:
-        response = requests.get(BING_SEARCH_URL, headers=headers, params=params)
-        response.raise_for_status()  # Raise an error for bad responses
-        articles = response.json().get('value', [])
-
-        # Debug output for the response structure
-        print(f"Response for {query}: {response.json()}")  # Debug: Print the entire response
-
-        if not articles:
-            print(f"No news articles found for {query}.")
+        response = requests.get('https://api.bing.microsoft.com/v7.0/news/search', headers=headers, params=params)
+        if response.status_code == 200:
+            articles = response.json().get('value', [])
+            return process_news_articles(articles, pair)
+        else:
+            print(f"Error fetching news for {pair}: {response.status_code}")
             return []
-
-        return [article['name'] for article in articles]
-
-    except requests.RequestException as e:
-        print(f"Error fetching news for {query}: {e}")
+    except Exception as e:
+        print(f"Exception occurred while fetching news for {pair}: {e}")
         return []
 
-def fetch_forex_news():
-    """Fetches news for all defined forex pairs."""
-    for pair in FOREX_PAIRS:
-        print(f"Fetching news for {pair}...")  # Indicate which pair is being processed
-        news = bing_search(pair)
-        if news:
-            news_cache[pair] = news
-            print(f"News for {pair}:")
-            for article in news:
-                print(f"- {article}")  # Print each article
-        else:
-            print(f"No news found for {pair}.")
+def process_news_articles(articles, pair):
+    """Process and analyze news articles."""
+    processed_articles = []
+    sentiments = []
+
+    for article in articles:
+        headline = article.get('name', '')
+        sentiment_score = analyze_sentiment(headline)
+        sentiments.append(sentiment_score)
+
+        processed_articles.append({
+            'pair': pair,
+            'headline': headline,
+            'sentiment': sentiment_score,
+            'url': article.get('url')
+        })
+
+    overall_sentiment = calculate_overall_sentiment(sentiments)
+    signal = trading_decision('bullish' if overall_sentiment > 0 else 'bearish', overall_sentiment)
+
+    # Add overall sentiment and signal to the news data
+    if processed_articles:
+        for article in processed_articles:
+            article['overall_sentiment'] = overall_sentiment
+            article['signal'] = signal
+
+    return processed_articles
+
+def save_news_to_file(news_data):
+    """Save news data to a JSON file."""
+    if os.path.exists(news_history_file):
+        with open(news_history_file, 'r') as f:
+            existing_data = json.load(f)
+    else:
+        existing_data = []
+
+    existing_data.extend(news_data)
+
+    with open(news_history_file, 'w') as f:
+        json.dump(existing_data, f, indent=4)
 
 if __name__ == "__main__":
-    # Initial fetch
-    print("Starting initial news fetch...")  # Debug: Indicate the start of the fetch
-    fetch_forex_news()
-
-    # Schedule the scraping job to run every 5 minutes
-    schedule.every(5).minutes.do(fetch_forex_news)
-
-    print("News scraper started. Fetching news every 5 minutes.")  # Indicate that the scheduler is running
-
-    # Run the scheduled scraping in the background
-    while True:
-        schedule.run_pending()
-        time.sleep(60)
+    scrape_and_store_forex_news()

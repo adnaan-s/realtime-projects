@@ -1,6 +1,3 @@
-# sentiment_model.py
-
-from os import name
 from textblob import TextBlob
 
 def analyze_sentiment(headline):
@@ -31,7 +28,7 @@ def calculate_overall_sentiment(sentiment_list):
         return 0
     return sum(sentiment_list) / len(sentiment_list)
 
-if name == "main":
+if __name__ == "__main__":
     # Test the function
     test_headlines = [
         "The dollar is strengthening against the euro.",

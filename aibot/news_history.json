@@ -3170,5 +3170,3669 @@
                 }
             ]
         }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:04:36.392600",
+        "news_analysis": {
+            "overall_sentiment": 0.0,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.0,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Ed Yardeni Sees Fed Pausing Rate Cuts for 2024 After Jobs Report",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "8 Forex Trading Tips",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:04:37.106315",
+        "news_analysis": {
+            "overall_sentiment": 0.6,
+            "market_direction": "Bullish",
+            "prediction": "Buy - Strong Bullish Sentiment",
+            "confidence": 0.6,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "Forecasting the upcoming week: Soft landing or not landing at all?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound Sterling slides to monthly low after surprisingly hot US Inflation data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "10 Best Trading Platforms in the UK 2024",
+                    "sentiment": 1
+                },
+                {
+                    "headline": "eToro vs. Plus500 \u2013 Which is Best in 2024?",
+                    "sentiment": 1
+                },
+                {
+                    "headline": "Fin2ai Review: How Does Forex Differ From Trading in Shares?",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:04:37.874385",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "USD / CAD - Canadian dollar still under stress",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Asia FX advances, dollar little enthused by hot CPI data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Were the falling US yields post-CPI really a head-scratcher?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD / CAD - Canadian dollar continues to fall",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY Forecast Today - 10/10: Central Bank Favor USD",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:04:38.665098",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:04:42.600225",
+        "news_analysis": {
+            "overall_sentiment": 0.125,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.125,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Ed Yardeni Sees Fed Pausing Rate Cuts for 2024 After Jobs Report",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:04:43.218533",
+        "news_analysis": {
+            "overall_sentiment": 0.4,
+            "market_direction": "Bullish",
+            "prediction": "Buy - Moderate Bullish Sentiment",
+            "confidence": 0.4,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "Forecasting the upcoming week: Soft landing or not landing at all?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound Sterling slides to monthly low after surprisingly hot US Inflation data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "10 Best Trading Platforms in the UK 2024",
+                    "sentiment": 1
+                },
+                {
+                    "headline": "GBP/USD and EUR/GBP analysis: What next for sterling?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "U.S. Dollar Index Extends Gains, BoE Governor Bailey Remarks Weighs On GBP/USD",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:04:43.806746",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY squares up to 150, S&P 500 hits ATH ahead of US inflation",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY outlook: Japanese Yen rises 1.3% vs Dollar on political news/economic data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "8 Forex Trading Tips",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How to Read Forex Trading Charts",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Best Forex Demo Accounts",
+                    "sentiment": 1
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:04:44.269423",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:14:36.144063",
+        "news_analysis": {
+            "overall_sentiment": 0.125,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.125,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Ed Yardeni Sees Fed Pausing Rate Cuts for 2024 After Jobs Report",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "8 Forex Trading Tips",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:14:36.792171",
+        "news_analysis": {
+            "overall_sentiment": 0.6,
+            "market_direction": "Bullish",
+            "prediction": "Buy - Strong Bullish Sentiment",
+            "confidence": 0.6,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "Forecasting the upcoming week: Soft landing or not landing at all?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound Sterling slides to monthly low after surprisingly hot US Inflation data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "10 Best Trading Platforms in the UK 2024",
+                    "sentiment": 1
+                },
+                {
+                    "headline": "eToro vs. Plus500 \u2013 Which is Best in 2024?",
+                    "sentiment": 1
+                },
+                {
+                    "headline": "Fin2ai Review: How Does Forex Differ From Trading in Shares?",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:14:37.262096",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "USD / CAD - Canadian dollar still under stress",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Asia FX advances, dollar little enthused by hot CPI data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Were the falling US yields post-CPI really a head-scratcher?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD / CAD - Canadian dollar continues to fall",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY Forecast Today - 10/10: Central Bank Favor USD",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:14:37.745994",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:14:42.437546",
+        "news_analysis": {
+            "overall_sentiment": 0.125,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.125,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Ed Yardeni Sees Fed Pausing Rate Cuts for 2024 After Jobs Report",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:14:43.098012",
+        "news_analysis": {
+            "overall_sentiment": 0.6,
+            "market_direction": "Bullish",
+            "prediction": "Buy - Strong Bullish Sentiment",
+            "confidence": 0.6,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "Forecasting the upcoming week: Soft landing or not landing at all?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound Sterling slides to monthly low after surprisingly hot US Inflation data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "10 Best Trading Platforms in the UK 2024",
+                    "sentiment": 1
+                },
+                {
+                    "headline": "eToro vs. Plus500 \u2013 Which is Best in 2024?",
+                    "sentiment": 1
+                },
+                {
+                    "headline": "Fin2ai Review: How Does Forex Differ From Trading in Shares?",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:14:43.534981",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY squares up to 150, S&P 500 hits ATH ahead of US inflation",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY outlook: Japanese Yen rises 1.3% vs Dollar on political news/economic data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "8 Forex Trading Tips",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Asia FX firms as dollar steadies before Powell, inflation cues",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:14:43.927256",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:16:09.491519",
+        "news_analysis": {
+            "overall_sentiment": 0.125,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.125,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Ed Yardeni Sees Fed Pausing Rate Cuts for 2024 After Jobs Report",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:16:10.012328",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "Pound Sterling Price News and Forecast: GBP/USD gains after upbeat UK data, hot US PPI",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "GBP/USD Weekly Forecast: Pound Sterling stays vulnerable ahead of UK inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/INR and USD/INR analysis: What next for the Indian rupee?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Analysis Today 10/10: Downward Channel (Chart)",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Firmer Dollar Into U.S. Election Cliffhanger",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:16:10.418212",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY squares up to 150, S&P 500 hits ATH ahead of US inflation",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY outlook: Japanese Yen rises 1.3% vs Dollar on political news/economic data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "8 Forex Trading Tips",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Asia FX firms as dollar steadies before Powell, inflation cues",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:16:10.885299",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:16:12.551717",
+        "news_analysis": {
+            "overall_sentiment": 0.125,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.125,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Ed Yardeni Sees Fed Pausing Rate Cuts for 2024 After Jobs Report",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:16:13.022546",
+        "news_analysis": {
+            "overall_sentiment": 0.6,
+            "market_direction": "Bullish",
+            "prediction": "Buy - Strong Bullish Sentiment",
+            "confidence": 0.6,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "Forecasting the upcoming week: Soft landing or not landing at all?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound Sterling slides to monthly low after surprisingly hot US Inflation data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "10 Best Trading Platforms in the UK 2024",
+                    "sentiment": 1
+                },
+                {
+                    "headline": "eToro vs. Plus500 \u2013 Which is Best in 2024?",
+                    "sentiment": 1
+                },
+                {
+                    "headline": "Fin2ai Review: How Does Forex Differ From Trading in Shares?",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:16:13.438644",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY squares up to 150, S&P 500 hits ATH ahead of US inflation",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY outlook: Japanese Yen rises 1.3% vs Dollar on political news/economic data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "8 Forex Trading Tips",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Asia FX firms as dollar steadies before Powell, inflation cues",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:16:13.896471",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": null,
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:24:50.102600",
+        "news_analysis": {
+            "overall_sentiment": 0.0,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.0,
+            "real_time_price": "EUR/USD Forecast \u2013 Euro Continues to Look Weak",
+            "news_analysis": [
+                {
+                    "headline": "USD / CAD - Canadian dollar still under stress",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FOREX: Record Highs for Equities Underpins Cross JPY Strength",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FXGenix: Avenix Fzco's Solution for Traders Seeking Strategic Edge",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD / CAD - Canadian dollar continues to fall",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:24:51.081067",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+            "news_analysis": [
+                {
+                    "headline": "GBP/USD Weekly Forecast: Pound Sterling stays vulnerable ahead of UK inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "British Pound Short-term Outlook: GBP/USD Support Test at September Low",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Firmer Dollar Into U.S. Election Cliffhanger",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Pound Sterling slides to monthly low after surprisingly hot US Inflation data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Dollar steady ahead of key inflation data",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:24:52.038541",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "USD / CAD - Canadian dollar unlove",
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY squares up to 150, S&P 500 hits ATH ahead of US inflation",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY outlook: Japanese Yen rises 1.3% vs Dollar on political news/economic data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "8 Forex Trading Tips",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Asia FX firms as dollar steadies before Powell, inflation cues",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:24:53.116370",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": "Avenix Fzco Launches Forexobot, Merging AI and Human Insight in Forex Trading",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:24:55.230096",
+        "news_analysis": {
+            "overall_sentiment": 0.125,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.125,
+            "real_time_price": "EUR/USD Forecast \u2013 Euro Continues to Look Weak",
+            "news_analysis": [
+                {
+                    "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Ed Yardeni Sees Fed Pausing Rate Cuts for 2024 After Jobs Report",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:24:56.120892",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+            "news_analysis": [
+                {
+                    "headline": "AUD/USD ascends on mixed US data, ends week with losses",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Pound Sterling Price News and Forecast: GBP/USD gains after upbeat UK data, hot US PPI",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Bold solution to address Law School admission backlog",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Dollar slips lower, but still on course for weekly gain",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/INR and USD/INR analysis: What next for the Indian rupee?",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:24:56.986037",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "USD/JPY forecast: signal as BoJ interest rate hike odds rise",
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY squares up to 150, S&P 500 hits ATH ahead of US inflation",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "India's forex reserves advance for 6th week to hit record high, inch closer to $700 billion",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY outlook: Japanese Yen rises 1.3% vs Dollar on political news/economic data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "8 Forex Trading Tips",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Asia FX firms as dollar steadies before Powell, inflation cues",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:24:57.996129",
+        "news_analysis": {
+            "overall_sentiment": 0.2,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.2,
+            "real_time_price": "Avenix Fzco Launches Forexobot, Merging AI and Human Insight in Forex Trading",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:35:28.557924",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "EUR/USD Forecast \u2013 Euro Continues to Look Weak",
+            "news_analysis": [
+                {
+                    "headline": "EUR/USD Weekly Forecast: Fed Takes More Conservative Stance",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "EUR/USD Weekly Price Forecast \u2013 Euro Continues to Look Vulnerable",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Weekly Forecast: Sellers gain confidence alongside the Fed",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Forecast \u2013 Euro Continues to Look Weak",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "EUR/USD Forecast Today 10/10 Struggles, USD Strong (Video)",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EURUSD: Sell Rallies",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD Strength as Gold, EUR/USD Pull Back Ahead of CPI",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:35:29.497355",
+        "news_analysis": {
+            "overall_sentiment": 0.0,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.0,
+            "real_time_price": "USD / CAD - Canadian dollar unlove",
+            "news_analysis": [
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "US: The outlook is improving, but some risks remain \u2013 National Bank of Canada",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Weekly Forecast: Pound Sterling stays vulnerable ahead of UK inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Pound, gold and oil prices in focus: commodity and currency check, 11 October",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "British Pound Short-term Outlook: GBP/USD Support Test at September Low",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "British Pound Next Targets | GBPUSD Short Term Long Term Projections",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "Pound To Dollar Muted Despite Risk-Off Flows",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:35:30.431054",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "USD/JPY forecast: signal as BoJ interest rate hike odds rise",
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY directional risks skewing lower as key resistance zone looms: the week ahead",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "USD/JPY Weekly Price Forecast \u2013 US Dollar Continues to Grind Higher Against the Yen",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY Forecast: Do Inflation Data And The Fed Minutes Support Stability?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY sell area of 151.00 dead ahead [Video]",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "Nikkei Closes Higher in Likely Position Adjustments by Investors",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Asia FX advances, dollar little enthused by hot CPI data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD / CAD - Canadian dollar still under stress",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Nikkei 225 Rises 0.55% as USD/JPY Stabilizes; BoJ Rate Delay Boosts Sentiment",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Were the falling US yields post-CPI really a head-scratcher?",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:35:31.336903",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "Avenix Fzco Launches Forexobot, Merging AI and Human Insight in Forex Trading",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Retail investors mostly missed this gold rally - too late to chase?",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:35:33.803169",
+        "news_analysis": {
+            "overall_sentiment": 0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "EUR/USD Forecast \u2013 Euro Continues to Look Weak",
+            "news_analysis": [
+                {
+                    "headline": "EUR/USD posts fresh two-month low as US Inflation rose faster than expected",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Sees Recovery As Market Sentiment Shifts Against The USD",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Market Movers: US GDP & Core PCE Could Fuel Silver and EUR/USD Rally",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EU allocates extra EUR 160 mln to Ukraine for energy security ahead of winter",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD: Broader Bullish Trend Remains Intact Ahead of Landmark Fed Decision",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EUR/USD Surge with the Fed\u2019s Upcoming Decision?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EURUSD take its bullish chances?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EURUSD rallies to vault over 1.11 on tepid Monday",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Outlook: ECB Unclear on Rate Cuts, Eyes on FOMC",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:35:34.626082",
+        "news_analysis": {
+            "overall_sentiment": 0.0,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.0,
+            "real_time_price": "USD / CAD - Canadian dollar unlove",
+            "news_analysis": [
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "US: The outlook is improving, but some risks remain \u2013 National Bank of Canada",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Weekly Forecast: Pound Sterling stays vulnerable ahead of UK inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Pound, gold and oil prices in focus: commodity and currency check, 11 October",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "British Pound Short-term Outlook: GBP/USD Support Test at September Low",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "British Pound Next Targets | GBPUSD Short Term Long Term Projections",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "Pound To Dollar Muted Despite Risk-Off Flows",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:35:35.493740",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "USD/JPY forecast: signal as BoJ interest rate hike odds rise",
+            "news_analysis": [
+                {
+                    "headline": "Dollar Slips as US Consumer Sentiment Unexpectedly Declines",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Asia Morning Bites",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY squares up to 150, S&P 500 hits ATH ahead of US inflation",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Are these the sellside\u2019s best-ever puns?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Weekly technical outlook on USD/JPY, NZD/USD, Oil [Video]",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Japanese Yen Forecast: USD/JPY Poised for Moves as Jibun Bank Services PMI Nears",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY outlook: Japanese Yen rises 1.3% vs Dollar on political news/economic data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Slides as Chinese Stimulus Boosts the Yuan",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY Stabilises Amid Bank Of Japan's Cautious Signals",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Moves Higher on Euro Weakness",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:35:36.398514",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "Avenix Fzco Launches Forexobot, Merging AI and Human Insight in Forex Trading",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Retail investors mostly missed this gold rally - too late to chase?",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:44:11.426722",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "EUR/USD Forecast \u2013 Euro Continues to Look Weak",
+            "news_analysis": [
+                {
+                    "headline": "EUR/USD posts fresh two-month low as US Inflation rose faster than expected",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Price Analysis: Markets Brace for More ECB Rate Cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "EUR/USD Hovers At Seven-Week Low Amid Adjusted Fed Rate Expectations",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Hits Three-Week Low Amid ECB Easing Expectations",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Bears Eye Lower Levels as Safe Haven Flows, Upbeat US Data Boost Greenback",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Market Movers: US GDP & Core PCE Could Fuel Silver and EUR/USD Rally",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EU allocates extra EUR 160 mln to Ukraine for energy security ahead of winter",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD: Broader Bullish Trend Remains Intact Ahead of Landmark Fed Decision",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EUR/USD Surge with the Fed\u2019s Upcoming Decision?",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:44:12.318799",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+            "news_analysis": [
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound, gold and oil prices in focus: commodity and currency check, 11 October",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Consolidates as Bulls Eye a Potential Short-Term Pullback",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FxWirePro: GBP/USD force is with bears as pair hits lowest since September 12th",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Forecast: Consolidating at Fresh Lows, Eyes on CPI",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD Price Action After the Rally: EUR/USD, GBP/USD, AUD/USD, USD/JPY, Gold",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "GBP/USD: Bearish Channel Forms as Price Targets 1.2997 Confluence",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:44:13.317416",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "USD/JPY forecast: signal as BoJ interest rate hike odds rise",
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY Forecast \u2013 US Dollar Continues to See Buyers",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY can remain sensitive to US rates \u2013 DBS",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY: Likely to rise above 149.50 \u2013 UOB Group",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY Forecast: Bullish Optimism Fades Ahead of CPI Data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY forecast: signal as BoJ interest rate hike odds rise",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FxWirePro: USD/JPY trends higher, but faces potential pitfalls",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold, Silver, USD/JPY Technical Analysis Ahead of Inflation Data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY: Rebounding Greenback Puts 155 on the Table With US CPI In Sight",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FxWirePro: USD/ JPY retreats but trend is still bullish",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY Outlook: Market Awaits Key US Employment Figures",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:44:14.169914",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "Avenix Fzco Launches Forexobot, Merging AI and Human Insight in Forex Trading",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD recaptures key 21-day SMA, as buyers refuse to give up",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:44:16.506913",
+        "news_analysis": {
+            "overall_sentiment": 0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "EUR/USD Forecast \u2013 Euro Continues to Look Weak",
+            "news_analysis": [
+                {
+                    "headline": "EUR/USD posts fresh two-month low as US Inflation rose faster than expected",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Sees Recovery As Market Sentiment Shifts Against The USD",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Market Movers: US GDP & Core PCE Could Fuel Silver and EUR/USD Rally",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EU allocates extra EUR 160 mln to Ukraine for energy security ahead of winter",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD: Broader Bullish Trend Remains Intact Ahead of Landmark Fed Decision",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EUR/USD Surge with the Fed\u2019s Upcoming Decision?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EURUSD take its bullish chances?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EURUSD rallies to vault over 1.11 on tepid Monday",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Outlook: ECB Unclear on Rate Cuts, Eyes on FOMC",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:44:17.367207",
+        "news_analysis": {
+            "overall_sentiment": 0.0,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.0,
+            "real_time_price": "USD / CAD - Canadian dollar unlove",
+            "news_analysis": [
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Price Analysis: UK GDP Growth Sparks Rebound",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound, gold and oil prices in focus: commodity and currency check, 11 October",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "British Pound Next Targets | GBPUSD Short Term Long Term Projections",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "BUZZ-GBP/USD awaits NFP data after pepping up on Pill",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Where to next for the pound as it plunges amid BoE rate cut possibility?",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:44:18.235031",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "USD/JPY forecast: signal as BoJ interest rate hike odds rise",
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY directional risks skewing lower as key resistance zone looms: the week ahead",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "USD/JPY Weekly Price Forecast \u2013 US Dollar Continues to Grind Higher Against the Yen",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY Forecast: Do Inflation Data And The Fed Minutes Support Stability?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY sell area of 151.00 dead ahead [Video]",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "Nikkei Closes Higher in Likely Position Adjustments by Investors",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Asia FX advances, dollar little enthused by hot CPI data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD / CAD - Canadian dollar still under stress",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Nikkei 225 Rises 0.55% as USD/JPY Stabilizes; BoJ Rate Delay Boosts Sentiment",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Were the falling US yields post-CPI really a head-scratcher?",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:44:19.118035",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "Avenix Fzco Launches Forexobot, Merging AI and Human Insight in Forex Trading",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD recaptures key 21-day SMA, as buyers refuse to give up",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:53:51.896636",
+        "news_analysis": {
+            "overall_sentiment": 0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "EUR/USD posts fresh two-month low as US Inflation rose faster than expected",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Sees Recovery As Market Sentiment Shifts Against The USD",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Market Movers: US GDP & Core PCE Could Fuel Silver and EUR/USD Rally",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EU allocates extra EUR 160 mln to Ukraine for energy security ahead of winter",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD: Broader Bullish Trend Remains Intact Ahead of Landmark Fed Decision",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EUR/USD Surge with the Fed\u2019s Upcoming Decision?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EURUSD take its bullish chances?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EURUSD rallies to vault over 1.11 on tepid Monday",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Outlook: ECB Unclear on Rate Cuts, Eyes on FOMC",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:53:52.463231",
+        "news_analysis": {
+            "overall_sentiment": -0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Bitget Launches Telegram App Centre, Featuring Over 600 TON Trending Mini-Apps",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "US: The outlook is improving, but some risks remain \u2013 National Bank of Canada",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Weekly Forecast: Pound Sterling stays vulnerable ahead of UK inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Pound, gold and oil prices in focus: commodity and currency check, 11 October",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Index just short of re-capturing 103 mark",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Analysis Today 10/10: Downward Channel (Chart)",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FxWirePro: GBP/USD downtrend loses steam after uptick in US inflation, jobless claims data but outlook still bearish",
+                    "sentiment": -0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:53:53.083750",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY Forecast \u2013 US Dollar Continues to See Buyers",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY can remain sensitive to US rates \u2013 DBS",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY: Likely to rise above 149.50 \u2013 UOB Group",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY forecast: signal as BoJ interest rate hike odds rise",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold, Silver, USD/JPY Technical Analysis Ahead of Inflation Data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY: Rebounding Greenback Puts 155 on the Table With US CPI In Sight",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY Outlook: Dollar Optimism Fueled by Robust NFP",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Japanese Stocks Close Higher Amid Sharp Yen Weakness",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY Price Analysis: Powell\u2019s Remarks Trigger Rebound",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Currency recap: U.S. dollar falls on strengthening yen and Chinese stimulus",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:53:53.577492",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD recaptures key 21-day SMA, as buyers refuse to give up",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:53:55.468400",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "EUR/USD posts fresh two-month low as US Inflation rose faster than expected",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Price Analysis: Markets Brace for More ECB Rate Cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "EUR/USD Hovers At Seven-Week Low Amid Adjusted Fed Rate Expectations",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Hits Three-Week Low Amid ECB Easing Expectations",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Bears Eye Lower Levels as Safe Haven Flows, Upbeat US Data Boost Greenback",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Market Movers: US GDP & Core PCE Could Fuel Silver and EUR/USD Rally",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EU allocates extra EUR 160 mln to Ukraine for energy security ahead of winter",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD: Broader Bullish Trend Remains Intact Ahead of Landmark Fed Decision",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EUR/USD Surge with the Fed\u2019s Upcoming Decision?",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:53:55.973044",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound, gold and oil prices in focus: commodity and currency check, 11 October",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Consolidates as Bulls Eye a Potential Short-Term Pullback",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FxWirePro: GBP/USD force is with bears as pair hits lowest since September 12th",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Forecast: Consolidating at Fresh Lows, Eyes on CPI",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD Price Action After the Rally: EUR/USD, GBP/USD, AUD/USD, USD/JPY, Gold",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "GBP/USD: Bearish Channel Forms as Price Targets 1.2997 Confluence",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:53:56.471426",
+        "news_analysis": {
+            "overall_sentiment": 0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY directional risks skewing lower as key resistance zone looms: the week ahead",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY sell area of 151.00 dead ahead [Video]",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "Asia FX advances, dollar little enthused by hot CPI data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Japanese Yen Forecast: Will BoJ Rate Hike Bets Rise on Strong Consumer Sentiment?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.14%",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "Asia FX firms slightly, dollar steady as CPI data looms",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY: Markets look to sell rallies into 150 \u2013 Rabobank",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY Forecast \u2013 US Dollar Continues to See Buyers",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY forecast: signal as BoJ interest rate hike odds rise",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "U.S. stocks surge to new record closing highs",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:53:56.974996",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD recaptures key 21-day SMA, as buyers refuse to give up",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:56:49.831435",
+        "news_analysis": {
+            "overall_sentiment": 0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "EUR/USD Weekly Forecast: Fed Takes More Conservative Stance",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "EUR/USD Weekly Price Forecast \u2013 Euro Continues to Look Vulnerable",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Weekly Forecast: Sellers gain confidence alongside the Fed",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Forecast \u2013 Euro Continues to Look Weak",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "EUR/USD Forecast Today 10/10 Struggles, USD Strong (Video)",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD Strength as Gold, EUR/USD Pull Back Ahead of CPI",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "New record highs for Dow Jones and Standard and Poor's 500",
+                    "sentiment": -0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:56:50.375540",
+        "news_analysis": {
+            "overall_sentiment": 0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Bitget Launches Telegram App Centre, Featuring Over 600 TON Trending Mini-Apps",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FxWirePro: GBP/USD downtrend loses steam after uptick in US inflation, jobless claims data but outlook still bearish",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "British Pound Next Targets | GBPUSD Short Term Long Term Projections",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "FxWirePro: GBP/USD force is with bears as pair hits lowest since September 12th",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Forecast: Consolidating at Fresh Lows, Eyes on CPI",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "GBP/USD wavers between modest gains",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Safe Haven Dollar Jumps More As Jobs Data Seen Vexing Fed's Rate Cut Plans",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Fed speeches to infuse volatility into GBP/USD exchange rate?",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:56:50.925380",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Dollar Climbs on Safe-Haven Demand from Middle East Risks",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY directional risks skewing lower as key resistance zone looms: the week ahead",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY sell area of 151.00 dead ahead [Video]",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "Gold Mounts Key Reversal on Daily Chart Following Hotter-Than-Expected CPI",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Asia FX advances, dollar little enthused by hot CPI data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Japanese Yen Forecast: Will BoJ Rate Hike Bets Rise on Strong Consumer Sentiment?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY Forecast \u2013 US Dollar Continues to See Buyers",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY steady after Fed Minutes",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY Forecast: Bullish Optimism Fades Ahead of CPI Data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Is Forex Trading Legal In Canada - All You Need To Know",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:56:51.443649",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Retail investors mostly missed this gold rally - too late to chase?",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T13:56:53.552985",
+        "news_analysis": {
+            "overall_sentiment": -0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "EUR/USD Weekly Forecast: Sellers gain confidence alongside the Fed",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Forecast \u2013 Euro Continues to Look Weak",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "FXGenix: Avenix Fzco's Solution for Traders Seeking Strategic Edge",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Forecast Today 11/10: Tests Support Level (Chart)",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "European indices almost flat after hotter-than expected U.S. inflation",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "EUR/USD Forecast Today 10/10 Struggles, USD Strong (Video)",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "New record highs for Dow Jones and Standard and Poor's 500",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "EUR/USD Hovers At Seven-Week Low Amid Adjusted Fed Rate Expectations",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T13:56:54.079860",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Price Analysis: UK GDP Growth Sparks Rebound",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound, gold and oil prices in focus: commodity and currency check, 11 October",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "British Pound Next Targets | GBPUSD Short Term Long Term Projections",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "GBP/USD Consolidates as Bulls Eye a Potential Short-Term Pullback",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Forecast: Consolidating at Fresh Lows, Eyes on CPI",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD Price Action After the Rally: EUR/USD, GBP/USD, AUD/USD, USD/JPY, Gold",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T13:56:54.598447",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Dollar Climbs on Safe-Haven Demand from Middle East Risks",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY directional risks skewing lower as key resistance zone looms: the week ahead",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY sell area of 151.00 dead ahead [Video]",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "Gold Mounts Key Reversal on Daily Chart Following Hotter-Than-Expected CPI",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Asia FX advances, dollar little enthused by hot CPI data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Japanese Yen Forecast: Will BoJ Rate Hike Bets Rise on Strong Consumer Sentiment?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY Forecast \u2013 US Dollar Continues to See Buyers",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY steady after Fed Minutes",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY Forecast: Bullish Optimism Fades Ahead of CPI Data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Is Forex Trading Legal In Canada - All You Need To Know",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T13:56:55.104280",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD recaptures key 21-day SMA, as buyers refuse to give up",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T14:04:11.855493",
+        "news_analysis": {
+            "overall_sentiment": 0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "EUR/USD posts fresh two-month low as US Inflation rose faster than expected",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Sees Recovery As Market Sentiment Shifts Against The USD",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Market Movers: US GDP & Core PCE Could Fuel Silver and EUR/USD Rally",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EU allocates extra EUR 160 mln to Ukraine for energy security ahead of winter",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD: Broader Bullish Trend Remains Intact Ahead of Landmark Fed Decision",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EUR/USD Surge with the Fed\u2019s Upcoming Decision?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EURUSD take its bullish chances?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EURUSD rallies to vault over 1.11 on tepid Monday",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Outlook: ECB Unclear on Rate Cuts, Eyes on FOMC",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T14:04:12.433353",
+        "news_analysis": {
+            "overall_sentiment": -0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Bitget Launches Telegram App Centre, Featuring Over 600 TON Trending Mini-Apps",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "US: The outlook is improving, but some risks remain \u2013 National Bank of Canada",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Weekly Forecast: Pound Sterling stays vulnerable ahead of UK inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Pound, gold and oil prices in focus: commodity and currency check, 11 October",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Index just short of re-capturing 103 mark",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Analysis Today 10/10: Downward Channel (Chart)",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FxWirePro: GBP/USD downtrend loses steam after uptick in US inflation, jobless claims data but outlook still bearish",
+                    "sentiment": -0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T14:04:12.991754",
+        "news_analysis": {
+            "overall_sentiment": 0.25,
+            "market_direction": "Bullish",
+            "prediction": "Buy - Moderate Bullish Sentiment",
+            "confidence": 0.25,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Dollar Climbs on Safe-Haven Demand from Middle East Risks",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Posts Modest Losses as the Yen Strengthens",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Dollar Slips as US Consumer Sentiment Unexpectedly Declines",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "U.S. Dollar Climbs After PPI Data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Asia FX advances, dollar little enthused by hot CPI data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD / CAD - Canadian dollar still under stress",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Were the falling US yields post-CPI really a head-scratcher?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Japanese Yen Forecast: Will BoJ Rate Hike Bets Rise on Strong Consumer Sentiment?",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Asia Morning Bites",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD / CAD - Canadian dollar continues to fall",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T14:04:13.510108",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Retail investors mostly missed this gold rally - too late to chase?",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T14:04:22.491481",
+        "news_analysis": {
+            "overall_sentiment": 0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "EUR/USD posts fresh two-month low as US Inflation rose faster than expected",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Sees Recovery As Market Sentiment Shifts Against The USD",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Market Movers: US GDP & Core PCE Could Fuel Silver and EUR/USD Rally",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EU allocates extra EUR 160 mln to Ukraine for energy security ahead of winter",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD: Broader Bullish Trend Remains Intact Ahead of Landmark Fed Decision",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EUR/USD Surge with the Fed\u2019s Upcoming Decision?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EURUSD take its bullish chances?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EURUSD rallies to vault over 1.11 on tepid Monday",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Outlook: ECB Unclear on Rate Cuts, Eyes on FOMC",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T14:04:23.008626",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound, gold and oil prices in focus: commodity and currency check, 11 October",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Consolidates as Bulls Eye a Potential Short-Term Pullback",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "FxWirePro: GBP/USD force is with bears as pair hits lowest since September 12th",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Forecast: Consolidating at Fresh Lows, Eyes on CPI",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD Price Action After the Rally: EUR/USD, GBP/USD, AUD/USD, USD/JPY, Gold",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "GBP/USD: Bearish Channel Forms as Price Targets 1.2997 Confluence",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T14:04:23.505047",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY forecast: signal as BoJ interest rate hike odds rise",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY: Rebounding Greenback Puts 155 on the Table With US CPI In Sight",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "USD/JPY Outlook: Dollar Optimism Fueled by Robust NFP",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Japanese Stocks Close Higher Amid Sharp Yen Weakness",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD/JPY Price Analysis: Powell\u2019s Remarks Trigger Rebound",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "AUD/USD rally stalls while EUR/JPY, USD/JPY gradually rise",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Major Pairs: Definition in Forex Trading and How to Trade",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Convert Japanese Yen To Swiss Franc",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Japan Interest Rate Decision",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Convert New Zealand Dollar To Japanese Yen",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T14:04:24.169291",
+        "news_analysis": {
+            "overall_sentiment": 0.1,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.1,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD recaptures key 21-day SMA, as buyers refuse to give up",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "timestamp": "2024-10-13T14:04:40.645890",
+        "news_analysis": {
+            "overall_sentiment": 0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "EUR/USD posts fresh two-month low as US Inflation rose faster than expected",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Sees Recovery As Market Sentiment Shifts Against The USD",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Market Movers: US GDP & Core PCE Could Fuel Silver and EUR/USD Rally",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EU allocates extra EUR 160 mln to Ukraine for energy security ahead of winter",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD: Broader Bullish Trend Remains Intact Ahead of Landmark Fed Decision",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EUR/USD Surge with the Fed\u2019s Upcoming Decision?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Will EURUSD take its bullish chances?",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EURUSD rallies to vault over 1.11 on tepid Monday",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "EUR/USD Outlook: ECB Unclear on Rate Cuts, Eyes on FOMC",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "GBPUSD",
+        "timestamp": "2024-10-13T14:04:41.209872",
+        "news_analysis": {
+            "overall_sentiment": 0.0,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.0,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD Price Analysis: UK GDP Growth Sparks Rebound",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Limited Strength for the Dollar After Higher Than Expected American Inflation",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Pound, gold and oil prices in focus: commodity and currency check, 11 October",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "GBP/USD forecast: signal ahead of UK GDP and inflation data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "The Rise of Robo-Traders: Avenix Fzco\u2019s Avexbot Sparks Debate",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "British Pound Next Targets | GBPUSD Short Term Long Term Projections",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "BUZZ-GBP/USD awaits NFP data after pepping up on Pill",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Where to next for the pound as it plunges amid BoE rate cut possibility?",
+                    "sentiment": 0
+                }
+            ]
+        }
+    },
+    {
+        "pair": "USDJPY",
+        "timestamp": "2024-10-13T14:04:41.736084",
+        "news_analysis": {
+            "overall_sentiment": 0.05,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.05,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "USD/JPY directional risks skewing lower as key resistance zone looms: the week ahead",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Wall Street marches higher shattering more records",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "USD/JPY sell area of 151.00 dead ahead [Video]",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "U.S. Dollar Climbs After PPI Data",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Lanxess shares drop after JPMorgan downgrades stock on weak outlook",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "Nikkei Closes Higher in Likely Position Adjustments by Investors",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Asia FX advances, dollar little enthused by hot CPI data",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "USD / CAD - Canadian dollar still under stress",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Japanese Yen Forecast: Will BoJ Rate Hike Bets Rise on Strong Consumer Sentiment?",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "XAUUSD",
+        "timestamp": "2024-10-13T14:04:42.197905",
+        "news_analysis": {
+            "overall_sentiment": 0.15,
+            "market_direction": "Neutral",
+            "prediction": "Hold - Market is Neutral",
+            "confidence": 0.15,
+            "real_time_price": "No price data available",
+            "news_analysis": [
+                {
+                    "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+                    "sentiment": -0.5
+                },
+                {
+                    "headline": "The US CPI Data Has Made Gold Traders Nervous",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Gold rises as U.S. economic data support case for rate cuts",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Commodity Roundup: Analysts see sustained rally in gold, ING forecasts Brent to avg $72 over 2025",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "How Global Economic Events Shape XAUUSD Trading Strategies with an AI Trading Robot",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Gold Price Forecast: XAU/USD\u2019s fate hinges on US CPI after key 21-day SMA gives way",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+                    "sentiment": 0.5
+                },
+                {
+                    "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+                    "sentiment": 0
+                },
+                {
+                    "headline": "Retail investors mostly missed this gold rally - too late to chase?",
+                    "sentiment": 0.5
+                }
+            ]
+        }
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+        "sentiment": 0,
+        "url": "https://www.geekwire.com/contributor-content/automated-tech-meets-forex-avenix-fzco-debuts-pivozon-expert-advisor/",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "EURUSD Below 1.1000: What to Expect This Week",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1307905-eurusd-below-11000-what-to-expect-this-week",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+        "sentiment": 0,
+        "url": "https://marketnews.com/forex-greenback-pops-amid-bostic-comments-eurusd-approaches-1-09",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "EURUSD rallies to vault over 1.11 on tepid Monday",
+        "sentiment": 0,
+        "url": "https://www.fxstreet.com/news/eurusd-rallies-to-vault-over-111-on-tepid-monday-202409162330",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "7 Best Forex Brokers in Dubai for 2024",
+        "sentiment": 1,
+        "url": "https://www.fxempire.com/brokers/best/dubai",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Weekly Forex Forecast For DXY, EURUSD, GBPUSD, USDJPY, and AUDUSD",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1307738-weekly-forex-forecast-for-dxy-eurusd-gbpusd-usdjpy",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "EUR/USD: EUR steadies below 1.10 \u2013 Scotiabank",
+        "sentiment": 0,
+        "url": "https://www.fxstreet.com/news/eur-usd-eur-steadies-below-110-scotiabank-202410071240",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "4 Best Offshore International Forex Brokers for 2024",
+        "sentiment": 0.5,
+        "url": "https://www.fxempire.com/brokers/best/offshore",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Best Forex Signals \u2013 Get Free Forex Signals Today",
+        "sentiment": 1,
+        "url": "https://www.business2community.com/trading/best-forex-signals",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Guide to Forex Trading",
+        "sentiment": 0,
+        "url": "https://www.investopedia.com/forex-and-currencies-trading-4689676",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Forecast: Sellers could move aside if Pound Sterling rises above 1.3100",
+        "sentiment": 0,
+        "url": "https://www.fxstreet.com/analysis/gbp-usd-forecast-sellers-could-move-aside-if-pound-sterling-rises-above-13100-202410110931",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "Pound Sterling Price News and Forecast: GBP/USD edges higher amid subdued USD price action",
+        "sentiment": 0.5,
+        "url": "https://www.fxstreet.com/news/pound-sterling-price-news-and-forecast-gbp-usd-edges-higher-amid-subdued-usd-price-action-202410100435",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Analysis Today 10/10: Downward Channel (Chart)",
+        "sentiment": 0,
+        "url": "https://menafn.com/1108767673/GBPUSD-Analysis-Today-1010-Downward-Channel-Chart",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD: Bearish Channel Forms as Price Targets 1.2997 Confluence",
+        "sentiment": 0,
+        "url": "https://finance.yahoo.com/news/gbp-usd-bearish-channel-forms-130300527.html",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "British Pound Short-term Outlook: GBP/USD Support Test at September Low",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1308428-british-pound-short-term-outlook-gbpusd-support-test-at",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Forecast: Dollar Gains After Iran\u2019s Attack",
+        "sentiment": 0,
+        "url": "https://www.forexcrunch.com/blog/2024/10/02/gbp-usd-forecast-dollar-gains-after-irans-attack/",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Forecast: Bailey Hints at Aggressive Rate Cuts",
+        "sentiment": 0,
+        "url": "https://www.forexcrunch.com/blog/2024/10/03/gbp-usd-forecast-bailey-hints-at-aggressive-rate-cuts/",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Analysis Today 09/10: Above 1.3000 Support (Chart)",
+        "sentiment": 0,
+        "url": "https://menafn.com/1108764489/GBPUSD-Analysis-Today-0910-Above-13000-Support-Chart",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/INR and USD/INR analysis: What next for the Indian rupee?",
+        "sentiment": 0,
+        "url": "https://www.msn.com/en-us/money/markets/gbpinr-and-usdinr-analysis-what-next-for-the-indian-rupee/ar-AA1s4hSe",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD and EUR/GBP analysis: What next for sterling?",
+        "sentiment": 0,
+        "url": "https://www.msn.com/en-us/money/other/gbp-usd-and-eur-gbp-analysis-what-next-for-sterling/ar-AA1rGmqZ",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "USD/JPY directional risks skewing lower as key resistance zone looms: the week ahead",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1308690-usdjpy-directional-risks-skewing-lower-as-key-resistance",
+        "overall_sentiment": 0.1,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Weekly Forex Forecast For DXY, EURUSD, GBPUSD, USDJPY, and AUDUSD",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1307738-weekly-forex-forecast-for-dxy-eurusd-gbpusd-usdjpy",
+        "overall_sentiment": 0.1,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "USD / CAD - Canadian dollar still under stress",
+        "sentiment": 0,
+        "url": "https://www.baystreet.ca/articles/forex_trader/104071/101124",
+        "overall_sentiment": 0.1,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Dollar Finishes Slightly Lower on Weak US News and Strength in Stocks",
+        "sentiment": -0.5,
+        "url": "https://www.msn.com/en-us/money/markets/dollar-finishes-slightly-lower-on-weak-us-news-and-strength-in-stocks/ar-AA1s7bZ3",
+        "overall_sentiment": 0.1,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "USD / CAD - Canadian dollar continues to fall",
+        "sentiment": 0,
+        "url": "https://www.baystreet.ca/articles/forex_trader/104022/101024",
+        "overall_sentiment": 0.1,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Dollar Slips as US Consumer Sentiment Unexpectedly Declines",
+        "sentiment": 0.5,
+        "url": "https://www.msn.com/en-us/money/markets/dollar-slips-as-us-consumer-sentiment-unexpectedly-declines/ar-AA1s6r7h",
+        "overall_sentiment": 0.1,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Hang Seng Index Slumps 3.38%, Nikkei 225 Rallies Amid Japan\u2019s PMI and USD/JPY Gains",
+        "sentiment": 0,
+        "url": "https://www.fxempire.com/forecasts/article/hang-seng-index-slumps-3-38-nikkei-225-rallies-amid-japans-pmi-and-usd-jpy-gains-1465760",
+        "overall_sentiment": 0.1,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "FOREX: Greenback Pops Amid Bostic Comments, EURUSD Approaches 1.09",
+        "sentiment": 0,
+        "url": "https://marketnews.com/forex-greenback-pops-amid-bostic-comments-eurusd-approaches-1-09",
+        "overall_sentiment": 0.1,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Asia FX advances, dollar little enthused by hot CPI data",
+        "sentiment": 0.5,
+        "url": "https://in.investing.com/news/forex-news/asia-fx-advances-dollar-little-enthused-by-hot-cpi-data-4467342",
+        "overall_sentiment": 0.1,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Is Forex Trading Legal In Canada - All You Need To Know",
+        "sentiment": 0.5,
+        "url": "https://menafn.com/1108764488/Is-Forex-Trading-Legal-In-Canada-All-You-Need-To-Know",
+        "overall_sentiment": 0.1,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+        "sentiment": 0,
+        "url": "https://www.geekwire.com/contributor-content/reversedo-avenix-fzcos-tactical-approach-to-automated-forex-trading/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+        "sentiment": 0.5,
+        "url": "https://www.geekwire.com/contributor-content/trend-spotting-made-easy-avenix-fzco-launches-orexbot-a-new-forex-robot-for-forex-aficionados/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+        "sentiment": 0,
+        "url": "https://techstory.in/the-fxprobot-revolution-avenix-fzcos-vision-for-the-future-of-forex/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Forexeko enters the market: Avenix Fzco\u2019s auto-pilot Forex trading vision",
+        "sentiment": 0,
+        "url": "https://www.independent.co.uk/news/business/forexeko-autopilot-forex-trading-b2603161.html",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "ForexVIM Launch: Avenix Fzco's Bid To Simplify Automated Trading",
+        "sentiment": 0,
+        "url": "https://www.ibtimes.co.uk/forexvim-launch-avenix-fzcos-bid-simplify-automated-trading-1727454",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Avenix Fzco\u2019s ForexVIM: A new chapter in Forex AI tools",
+        "sentiment": 0.5,
+        "url": "https://www.independent.co.uk/news/business/forexvim-forex-ai-tools-pattern-recognition-b2603153.html",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+        "sentiment": 0,
+        "url": "https://techstory.in/trading-in-the-age-of-ai-what-avenix-fzcos-avexbot-means-for-global-markets/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Trend Identification Techniques In Avenix Fzco's Latest EA: Forexeko",
+        "sentiment": 0.5,
+        "url": "https://www.ibtimes.co.uk/trend-identification-techniques-avenix-fzcos-latest-ea-forexeko-1727480",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Forex vs Gold: Why More Traders are Picking Precious Metals",
+        "sentiment": 0.5,
+        "url": "https://www.msn.com/en-us/money/other/forex-vs-gold-why-more-traders-are-picking-precious-metals/ar-AA1rirmi",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
     }
 ]
