@@ -17178,5 +17178,733 @@
         "url": "https://www.msn.com/en-in/money/other/forex-vs-gold-why-more-traders-are-picking-precious-metals/ar-AA1rirmi",
         "overall_sentiment": 0.2,
         "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Forex Trading Enters a New Era with Avenix Fzco's FXGenix Robot",
+        "sentiment": 0.5,
+        "url": "https://www.ibtimes.sg/forex-trading-enters-new-era-avenix-fzcos-fxgenix-robot-76444",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+        "sentiment": 0,
+        "url": "https://www.geekwire.com/contributor-content/automated-tech-meets-forex-avenix-fzco-debuts-pivozon-expert-advisor/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "EURUSD rallies to vault over 1.11 on tepid Monday",
+        "sentiment": 0,
+        "url": "https://www.fxstreet.com/news/eurusd-rallies-to-vault-over-111-on-tepid-monday-202409162330",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Weekly Forex Forecast For DXY, EURUSD, GBPUSD, USDJPY, and AUDUSD",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1307738-weekly-forex-forecast-for-dxy-eurusd-gbpusd-usdjpy",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "4 Best Offshore International Forex Brokers for 2024",
+        "sentiment": 0.5,
+        "url": "https://www.fxempire.com/brokers/best/offshore",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "FXGenix: Avenix Fzco\u2019s Answer to the Demand for Smarter Forex Trading Tools",
+        "sentiment": 0,
+        "url": "https://www.thesouthafrican.com/technology/fxgenix-avenix-fzcos-answer-to-the-demand-for-smarter-forex-trading-tools/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "EUR/USD: EUR steadies below 1.10 \u2013 Scotiabank",
+        "sentiment": 0,
+        "url": "https://www.fxstreet.com/news/eur-usd-eur-steadies-below-110-scotiabank-202410071240",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Weekly Forex Forecast For DXY, EURUSD, GBPUSD, USDJPY, and USDCHF (September 23-27, 2024)",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1305273-weekly-forex-forecast-for-dxy-eurusd-gbpusd-usdjpy",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "7 Best Forex Brokers in Dubai for 2024",
+        "sentiment": 1,
+        "url": "https://www.fxempire.com/brokers/best/dubai",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD: No further increase in momentum \u2013 UOB Group",
+        "sentiment": 0,
+        "url": "https://www.fxstreet.com/news/gbp-usd-no-further-increase-in-momentum-uob-group-202410150914",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Price Analysis: Sterling Gains Despite Downbeat Data",
+        "sentiment": 0,
+        "url": "https://www.forexcrunch.com/blog/2024/10/15/gbp-usd-price-analysis-sterling-gains-despite-downbeat-data/",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "Pound Sterling Price News and Forecast: GBP/USD rises toward 1.3100 post strong UK jobs report",
+        "sentiment": 0.5,
+        "url": "https://www.fxstreet.com/news/pound-sterling-price-news-and-forecast-gbp-usd-rises-toward-13100-post-strong-uk-jobs-report-202410151528",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Forecast Today - 15/10: GBP Finds Support (Chart)",
+        "sentiment": 0,
+        "url": "https://menafn.com/1108781722/GBPUSD-Forecast-Today-1510-GBP-Finds-Support-Chart",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Weekly Forecast - 13/10: Lower Trading, Fragile Mood",
+        "sentiment": 0,
+        "url": "https://menafn.com/1108774323/GBPUSD-Weekly-Forecast-1310-Lower-Trading-Fragile-Mood",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "Pound to Dollar Forecast for Week Ahead: Will GBP/USD Slump on Downbeat UK Data?",
+        "sentiment": 0,
+        "url": "https://uk.investing.com/news/forex-news/pound-to-dollar-forecast-for-week-ahead-will-gbpusd-slump-on-downbeat-uk-data-3733802",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD: Bearish Channel Forms as Price Targets 1.2997 Confluence",
+        "sentiment": 0,
+        "url": "https://finance.yahoo.com/news/gbp-usd-bearish-channel-forms-130300527.html",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD and EUR/GBP analysis: What next for sterling?",
+        "sentiment": 0,
+        "url": "https://www.msn.com/en-us/money/other/gbp-usd-and-eur-gbp-analysis-what-next-for-sterling/ar-AA1rGmqZ",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "US Dollar Forecast: GBP/USD Weakens as Gold Prices Dip on Dovish BoE Outlook",
+        "sentiment": 0,
+        "url": "https://www.fxempire.com/forecasts/article/us-dollar-forecast-gbp-usd-weakens-as-gold-prices-dip-on-dovish-boe-outlook-1465952",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/INR and USD/INR analysis: What next for the Indian rupee?",
+        "sentiment": 0,
+        "url": "https://www.msn.com/en-us/money/markets/gbpinr-and-usdinr-analysis-what-next-for-the-indian-rupee/ar-AA1s4hSe",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Weekly Forex Forecast For DXY, EURUSD, GBPUSD, USDJPY, and AUDUSD",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1307738-weekly-forex-forecast-for-dxy-eurusd-gbpusd-usdjpy",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Best Forex Brokers for October 2024",
+        "sentiment": 1,
+        "url": "https://www.investopedia.com/best-brokers-for-forex-trading-4587882",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Weekly Forex Forecast For DXY, EURUSD, GBPUSD, USDJPY, and USDCHF (September 23-27, 2024)",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1305273-weekly-forex-forecast-for-dxy-eurusd-gbpusd-usdjpy",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Best Forex Signals \u2013 Get Free Forex Signals Today",
+        "sentiment": 1,
+        "url": "https://www.business2community.com/trading/best-forex-signals",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Dollar Slips as US Consumer Sentiment Unexpectedly Declines",
+        "sentiment": 0.5,
+        "url": "https://www.msn.com/en-us/money/markets/dollar-slips-as-us-consumer-sentiment-unexpectedly-declines/ar-AA1s6r7h",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "10 Best Forex Demo Accounts for 2024",
+        "sentiment": 1,
+        "url": "https://www.fxempire.com/brokers/best/demo-account",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "5 Best Forex Signal Providers for 2024",
+        "sentiment": 1,
+        "url": "https://www.fxempire.com/brokers/best/forex-signals",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Best Forex Robots",
+        "sentiment": 1,
+        "url": "https://www.benzinga.com/money/best-forex-robots",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Guide to Forex Trading",
+        "sentiment": 0,
+        "url": "https://www.investopedia.com/forex-and-currencies-trading-4689676",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Best Forex Demo Accounts",
+        "sentiment": 1,
+        "url": "https://www.benzinga.com/money/best-forex-demo-accounts",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+        "sentiment": 0,
+        "url": "https://www.geekwire.com/contributor-content/reversedo-avenix-fzcos-tactical-approach-to-automated-forex-trading/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+        "sentiment": 0.5,
+        "url": "https://www.geekwire.com/contributor-content/trend-spotting-made-easy-avenix-fzco-launches-orexbot-a-new-forex-robot-for-forex-aficionados/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+        "sentiment": 0,
+        "url": "https://techstory.in/the-fxprobot-revolution-avenix-fzcos-vision-for-the-future-of-forex/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Avenix Fzco\u2019s ForexVIM: A new chapter in Forex AI tools",
+        "sentiment": 0.5,
+        "url": "https://www.independent.co.uk/news/business/forexvim-forex-ai-tools-pattern-recognition-b2603153.html",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "FXProBot: Avenix Fzco\u2019s tech-driven approach to Forex trading",
+        "sentiment": 0,
+        "url": "https://www.independent.co.uk/news/business/fxprobot-data-forex-trading-impulse-detection-b2603099.html",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Forexobot: Avenix Fzco's Latest Addition To Automated Trading",
+        "sentiment": 0.5,
+        "url": "https://www.ibtimes.co.uk/forexobot-avenix-fzcos-latest-addition-automated-trading-1727380",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "ForexVIM Launch: Avenix Fzco's Bid To Simplify Automated Trading",
+        "sentiment": 0,
+        "url": "https://www.ibtimes.co.uk/forexvim-launch-avenix-fzcos-bid-simplify-automated-trading-1727454",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Forex vs Gold: Why More Traders are Picking Precious Metals",
+        "sentiment": 0.5,
+        "url": "https://www.msn.com/en-us/money/other/forex-vs-gold-why-more-traders-are-picking-precious-metals/ar-AA1rirmi",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+        "sentiment": 0,
+        "url": "https://techstory.in/trading-in-the-age-of-ai-what-avenix-fzcos-avexbot-means-for-global-markets/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Forex Trading Enters a New Era with Avenix Fzco's FXGenix Robot",
+        "sentiment": 0.5,
+        "url": "https://www.ibtimes.sg/forex-trading-enters-new-era-avenix-fzcos-fxgenix-robot-76444",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Automated Tech Meets Forex: Avenix Fzco Debuts Pivozon Expert Advisor",
+        "sentiment": 0,
+        "url": "https://www.geekwire.com/contributor-content/automated-tech-meets-forex-avenix-fzco-debuts-pivozon-expert-advisor/",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "EURUSD rallies to vault over 1.11 on tepid Monday",
+        "sentiment": 0,
+        "url": "https://www.fxstreet.com/news/eurusd-rallies-to-vault-over-111-on-tepid-monday-202409162330",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "4 Best Offshore International Forex Brokers for 2024",
+        "sentiment": 0.5,
+        "url": "https://www.fxempire.com/brokers/best/offshore",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "How Do Economic Policies Impact the Forex Market?",
+        "sentiment": 0.5,
+        "url": "https://www.msn.com/en-us/money/markets/how-do-economic-policies-impact-the-forex-market/ar-AA1pZeXt",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "EUR/USD: EUR steadies below 1.10 \u2013 Scotiabank",
+        "sentiment": 0,
+        "url": "https://www.fxstreet.com/news/eur-usd-eur-steadies-below-110-scotiabank-202410071240",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "FXGenix: Avenix Fzco\u2019s Answer to the Demand for Smarter Forex Trading Tools",
+        "sentiment": 0,
+        "url": "https://www.thesouthafrican.com/technology/fxgenix-avenix-fzcos-answer-to-the-demand-for-smarter-forex-trading-tools/",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Weekly Forex Forecast For DXY, EURUSD, GBPUSD, USDJPY, and AUDUSD",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1307738-weekly-forex-forecast-for-dxy-eurusd-gbpusd-usdjpy",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "Weekly Forex Forecast For DXY, EURUSD, GBPUSD, USDJPY, and USDCHF (September 23-27, 2024)",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1305273-weekly-forex-forecast-for-dxy-eurusd-gbpusd-usdjpy",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "headline": "5 Best Forex Brokers in Qatar for 2024",
+        "sentiment": 1,
+        "url": "https://www.fxempire.com/brokers/best/qatar",
+        "overall_sentiment": 0.25,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD: No further increase in momentum \u2013 UOB Group",
+        "sentiment": 0,
+        "url": "https://www.fxstreet.com/news/gbp-usd-no-further-increase-in-momentum-uob-group-202410150914",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Price Analysis: Sterling Gains Despite Downbeat Data",
+        "sentiment": 0,
+        "url": "https://www.forexcrunch.com/blog/2024/10/15/gbp-usd-price-analysis-sterling-gains-despite-downbeat-data/",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "Pound Sterling Price News and Forecast: GBP/USD rises toward 1.3100 post strong UK jobs report",
+        "sentiment": 0.5,
+        "url": "https://www.fxstreet.com/news/pound-sterling-price-news-and-forecast-gbp-usd-rises-toward-13100-post-strong-uk-jobs-report-202410151528",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Forecast Today - 15/10: GBP Finds Support (Chart)",
+        "sentiment": 0,
+        "url": "https://menafn.com/1108781722/GBPUSD-Forecast-Today-1510-GBP-Finds-Support-Chart",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Weekly Forecast - 13/10: Lower Trading, Fragile Mood",
+        "sentiment": 0,
+        "url": "https://menafn.com/1108774323/GBPUSD-Weekly-Forecast-1310-Lower-Trading-Fragile-Mood",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD Forecast: US Inflation Data Triggers Indecision",
+        "sentiment": 0,
+        "url": "https://www.forexcrunch.com/blog/2024/10/14/gbp-usd-forecast-us-inflation-data-triggers-indecision/",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD: Bearish Channel Forms as Price Targets 1.2997 Confluence",
+        "sentiment": 0,
+        "url": "https://finance.yahoo.com/news/gbp-usd-bearish-channel-forms-130300527.html",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/USD and EUR/GBP analysis: What next for sterling?",
+        "sentiment": 0,
+        "url": "https://www.msn.com/en-us/money/other/gbp-usd-and-eur-gbp-analysis-what-next-for-sterling/ar-AA1rGmqZ",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "GBP/INR and USD/INR analysis: What next for the Indian rupee?",
+        "sentiment": 0,
+        "url": "https://www.msn.com/en-us/money/markets/gbpinr-and-usdinr-analysis-what-next-for-the-indian-rupee/ar-AA1s4hSe",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "GBPUSD",
+        "headline": "Trading terminology: basic forex trading terms for beginners",
+        "sentiment": 0,
+        "url": "https://www.markets.com/education-centre/trading-terminology-basic-forex-trading-terms-for-beginners/",
+        "overall_sentiment": 0.05,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Weekly Forex Forecast For DXY, EURUSD, GBPUSD, USDJPY, and AUDUSD",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1307738-weekly-forex-forecast-for-dxy-eurusd-gbpusd-usdjpy",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Best Forex Brokers for October 2024",
+        "sentiment": 1,
+        "url": "https://www.investopedia.com/best-brokers-for-forex-trading-4587882",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Weekly Forex Forecast For DXY, EURUSD, GBPUSD, USDJPY, and USDCHF (September 23-27, 2024)",
+        "sentiment": 0,
+        "url": "https://www.forexfactory.com/news/1305273-weekly-forex-forecast-for-dxy-eurusd-gbpusd-usdjpy",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Best Forex Signals \u2013 Get Free Forex Signals Today",
+        "sentiment": 1,
+        "url": "https://www.business2community.com/trading/best-forex-signals",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Dollar Slips as US Consumer Sentiment Unexpectedly Declines",
+        "sentiment": 0.5,
+        "url": "https://www.msn.com/en-us/money/markets/dollar-slips-as-us-consumer-sentiment-unexpectedly-declines/ar-AA1s6r7h",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "10 Best Forex Demo Accounts for 2024",
+        "sentiment": 1,
+        "url": "https://www.fxempire.com/brokers/best/demo-account",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "5 Best Forex Signal Providers for 2024",
+        "sentiment": 1,
+        "url": "https://www.fxempire.com/brokers/best/forex-signals",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Best Forex Robots",
+        "sentiment": 1,
+        "url": "https://www.benzinga.com/money/best-forex-robots",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Guide to Forex Trading",
+        "sentiment": 0,
+        "url": "https://www.investopedia.com/forex-and-currencies-trading-4689676",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "USDJPY",
+        "headline": "Best Forex Demo Accounts",
+        "sentiment": 1,
+        "url": "https://www.benzinga.com/money/best-forex-demo-accounts",
+        "overall_sentiment": 0.65,
+        "signal": "Buy - Strong Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Reversedo: Avenix Fzco\u2019s Tactical Approach to Automated Forex Trading",
+        "sentiment": 0,
+        "url": "https://www.geekwire.com/contributor-content/reversedo-avenix-fzcos-tactical-approach-to-automated-forex-trading/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Trend-Spotting Made Easy: Avenix Fzco Launches Orexbot, A New Forex Robot for Forex Aficionados",
+        "sentiment": 0.5,
+        "url": "https://www.geekwire.com/contributor-content/trend-spotting-made-easy-avenix-fzco-launches-orexbot-a-new-forex-robot-for-forex-aficionados/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "The FXProBot Revolution: Avenix Fzco\u2019s Vision for the Future of Forex",
+        "sentiment": 0,
+        "url": "https://techstory.in/the-fxprobot-revolution-avenix-fzcos-vision-for-the-future-of-forex/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Avenix Fzco\u2019s ForexVIM: A new chapter in Forex AI tools",
+        "sentiment": 0.5,
+        "url": "https://www.independent.co.uk/news/business/forexvim-forex-ai-tools-pattern-recognition-b2603153.html",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "FXProBot: Avenix Fzco\u2019s tech-driven approach to Forex trading",
+        "sentiment": 0,
+        "url": "https://www.independent.co.uk/news/business/fxprobot-data-forex-trading-impulse-detection-b2603099.html",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Forexobot: Avenix Fzco's Latest Addition To Automated Trading",
+        "sentiment": 0.5,
+        "url": "https://www.ibtimes.co.uk/forexobot-avenix-fzcos-latest-addition-automated-trading-1727380",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "ForexVIM Launch: Avenix Fzco's Bid To Simplify Automated Trading",
+        "sentiment": 0,
+        "url": "https://www.ibtimes.co.uk/forexvim-launch-avenix-fzcos-bid-simplify-automated-trading-1727454",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Forex vs Gold: Why More Traders are Picking Precious Metals",
+        "sentiment": 0.5,
+        "url": "https://www.msn.com/en-us/money/other/forex-vs-gold-why-more-traders-are-picking-precious-metals/ar-AA1rirmi",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "XAUUSD",
+        "headline": "Trading in the Age of AI: What Avenix Fzco\u2019s Avexbot Means for Global Markets",
+        "sentiment": 0,
+        "url": "https://techstory.in/trading-in-the-age-of-ai-what-avenix-fzcos-avexbot-means-for-global-markets/",
+        "overall_sentiment": 0.2222222222222222,
+        "signal": "Buy - Moderate Bullish Sentiment"
+    },
+    {
+        "pair": "EURUSD",
+        "news": "EURUSD pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9822474122047424,
+        "timestamp": "2024-10-15 23:10:52.283226"
+    },
+    {
+        "pair": "GBPUSD",
+        "news": "GBPUSD pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9720697402954102,
+        "timestamp": "2024-10-15 23:10:52.654059"
+    },
+    {
+        "pair": "USDJPY",
+        "news": "USDJPY pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9701509475708008,
+        "timestamp": "2024-10-15 23:10:52.991356"
+    },
+    {
+        "pair": "XAUUSD",
+        "news": "Gold related news here...",
+        "sentiment": "POSITIVE",
+        "confidence": 0.9933995008468628,
+        "timestamp": "2024-10-15 23:10:53.329720"
+    },
+    {
+        "pair": "EURUSD",
+        "news": "EURUSD pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9822474122047424,
+        "timestamp": "2024-10-15 23:10:57.564140"
+    },
+    {
+        "pair": "GBPUSD",
+        "news": "GBPUSD pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9720697402954102,
+        "timestamp": "2024-10-15 23:10:58.286158"
+    },
+    {
+        "pair": "USDJPY",
+        "news": "USDJPY pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9701509475708008,
+        "timestamp": "2024-10-15 23:10:58.772420"
+    },
+    {
+        "pair": "XAUUSD",
+        "news": "Gold related news here...",
+        "sentiment": "POSITIVE",
+        "confidence": 0.9933995008468628,
+        "timestamp": "2024-10-15 23:10:59.494069"
+    },
+    {
+        "pair": "EURUSD",
+        "news": "EURUSD pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9822474122047424,
+        "timestamp": "2024-10-15 23:20:47.944343"
+    },
+    {
+        "pair": "GBPUSD",
+        "news": "GBPUSD pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9720697402954102,
+        "timestamp": "2024-10-15 23:20:48.701861"
+    },
+    {
+        "pair": "USDJPY",
+        "news": "USDJPY pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9701509475708008,
+        "timestamp": "2024-10-15 23:20:49.476722"
+    },
+    {
+        "pair": "XAUUSD",
+        "news": "Gold related news here...",
+        "sentiment": "POSITIVE",
+        "confidence": 0.9933995008468628,
+        "timestamp": "2024-10-15 23:20:50.268222"
+    },
+    {
+        "pair": "EURUSD",
+        "news": "EURUSD pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9822474122047424,
+        "timestamp": "2024-10-15 23:20:57.151266"
+    },
+    {
+        "pair": "GBPUSD",
+        "news": "GBPUSD pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9720697402954102,
+        "timestamp": "2024-10-15 23:20:57.507929"
+    },
+    {
+        "pair": "USDJPY",
+        "news": "USDJPY pair news here...",
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9701509475708008,
+        "timestamp": "2024-10-15 23:20:57.891790"
+    },
+    {
+        "pair": "XAUUSD",
+        "news": "Gold related news here...",
+        "sentiment": "POSITIVE",
+        "confidence": 0.9933995008468628,
+        "timestamp": "2024-10-15 23:20:58.618876"
     }
 ]

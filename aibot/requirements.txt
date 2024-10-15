@@ -13,17 +13,17 @@ textblob
 # NLTK (dependency for TextBlob)
 NLTK
 
-# Data manipulation (might be useful for future enhancements)
+# Data manipulation
 pandas
 numpy
 
 # API requests (alternative to requests, included for compatibility)
 aiohttp
 
-# Date and time handling (useful for timestamping predictions)
+# Date and time handling
 python-dateutil
 
-# Environment variables management (useful for configuration)
+# Environment variables management
 python-dotenv
 
 # WSGI server for production deployment
@@ -31,3 +31,12 @@ gunicorn
 
 # Add setuptools to handle the distutils issue
 setuptools
+
+# Task scheduling
+APScheduler
+
+# Fetching real-time price
+yfinance
+
+# MetaApi integration
+metaapi-cloud-sdk

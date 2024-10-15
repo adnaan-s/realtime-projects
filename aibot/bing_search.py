@@ -1,17 +1,39 @@
 import os
 import requests
+import json
+import time
 import yfinance as yf
 from dotenv import load_dotenv
+from datetime import datetime, timedelta
 
 # Load environment variables from .env file
 load_dotenv()
 
+# Cache directory and expiration time (1 day)
+CACHE_DIR = "cache"
+CACHE_EXPIRY_HOURS = 24
+
+# Ensure cache directory exists
+if not os.path.exists(CACHE_DIR):
+    os.makedirs(CACHE_DIR)
+
 def bing_search(query):
-    """Function to perform a Bing search for the given query."""
+    """Function to perform a Bing search for the given query, with caching and rate limit handling."""
     bing_api_key = os.getenv('BING_API_KEY')
     if not bing_api_key:
         raise ValueError("BING_API_KEY not found in environment variables")
-
+    
+    cache_file = os.path.join(CACHE_DIR, f"{query.replace(' ', '_')}_news.json")
+    
+    # Check if cached data is available and not expired
+    if os.path.exists(cache_file):
+        last_modified_time = datetime.fromtimestamp(os.path.getmtime(cache_file))
+        if datetime.now() - last_modified_time < timedelta(hours=CACHE_EXPIRY_HOURS):
+            with open(cache_file, 'r') as f:
+                cached_data = json.load(f)
+            print("Returning cached news data")
+            return cached_data
+    
     headers = {'Ocp-Apim-Subscription-Key': bing_api_key}
     params = {
         'q': query,
@@ -24,6 +46,12 @@ def bing_search(query):
         response = requests.get('https://api.bing.microsoft.com/v7.0/news/search', headers=headers, params=params)
         response.raise_for_status()  # Raise an exception for bad status codes
         articles = response.json().get('value', [])
+        
+        # Cache the news data
+        with open(cache_file, 'w') as f:
+            json.dump(articles, f, indent=4)
+        print("Fetched and cached new data from Bing")
+        
         return [article.get('name') for article in articles]  # Extract headlines
     except requests.RequestException as e:
         print(f"Error fetching news: {e}")
